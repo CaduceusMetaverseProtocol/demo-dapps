@@ -9,6 +9,11 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+
+After running successfully, use the browser（Chrome） to view:
+  - Local:   http://localhost:xxxx/ 
+  - Network: http://192.168.x.x:xxxx/
+
 ```
 
 ### Compiles and minifies for production
